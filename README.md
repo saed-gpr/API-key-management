@@ -18,9 +18,9 @@ A secure and lightweight RESTful API built with **Flask** that demonstrates API 
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
    cd YOUR_REPO_NAME
-
+   ```
    ---
-   . Create and activate a virtual environment:
+    Create and activate a virtual environment:
     
     Bash
     
